@@ -159,3 +159,5 @@ def main():
             plt.savefig(name)
             plt.clf()
             print("\n\n")
+if __name__=='__main__':
+    main()
